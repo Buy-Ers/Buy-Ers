@@ -1,7 +1,7 @@
-# 🕵️‍♂️ About Me: 
+# About Me: 
 Computer Science student with a passion for Robotics and Software Engineering
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +21,7 @@ Computer Science student with a passion for Robotics and Software Engineering
 ![MIPS32](https://img.shields.io/badge/MIPS32-Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![MARIE](https://img.shields.io/badge/MARIE-Architecture-4A4A4A?style=for-the-badge&logoColor=white)
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-byars-407214235/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tylerabyars@gmail.com)
