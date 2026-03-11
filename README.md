@@ -1,7 +1,7 @@
 # 🕵️‍♂️ About Me: 
 Computer Science student with a passion for Robotics and Software Engineering
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
