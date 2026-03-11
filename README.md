@@ -1,6 +1,5 @@
 # 🕵️‍♂️ About Me: 
 Computer Science student with a passion for Robotics and Software Engineering
----
 
 ## 🛠 Tech Stack
 
