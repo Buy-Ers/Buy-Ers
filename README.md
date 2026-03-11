@@ -21,8 +21,6 @@ Computer Science student with a passion for Robotics and Software Engineering
 ![MIPS32](https://img.shields.io/badge/MIPS32-Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![MARIE](https://img.shields.io/badge/MARIE-Architecture-4A4A4A?style=for-the-badge&logoColor=white)
 
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-byars-407214235/)
